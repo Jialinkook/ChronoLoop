@@ -29,7 +29,7 @@
 *The project runs on any browser across both macOS and Windows systems and features adaptive sizing.*
 
 ## Screenshots / Media
-
+### exhibition shots
 
 ![展览图1](./exhibition1.jpg)
 ![展览图2](./exhibition2.jpg)
