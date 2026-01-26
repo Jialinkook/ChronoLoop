@@ -29,15 +29,15 @@
 *The project runs on any browser across both macOS and Windows systems and features adaptive sizing.*
 
 ## Screenshots / Media
-_Add real photos from your exhibit or installation environment here._  
-![展览图1](/media/exhibition1.jpg)  
-![展览图2](/media/exhibition2.jpg)
 
-### Sketches / Ideation Process
-_Add early design sketches or concept maps._  
-![草图1](/media/sketch1.png)  
-![草图2](/media/sketch2.png)
 
+![展览图1](./exhibition1.jpg)
+![展览图2](./exhibition2.jpg)
+
+### Sketches
+
+
+![草图1](./sketch1.png)
 
 
 ## Credits / Acknowledgements
